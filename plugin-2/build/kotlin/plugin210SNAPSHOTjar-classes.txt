@@ -1,0 +1,1 @@
+D:\Work\Kotlin\workspace\HelloPlugin\plugin-2\build\classes\kotlin\main\com\wayne\plugin2\PluginImpl2.class

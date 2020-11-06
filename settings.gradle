@@ -1,0 +1,5 @@
+rootProject.name = 'HelloPlugin'
+include 'plugin-1'
+include 'plugin-2'
+include 'plugin-common'
+

@@ -1,0 +1,1 @@
+D:\Work\Kotlin\workspace\HelloPlugin\plugin-common\build\classes\kotlin\main\com\wayne\plugin\common\Plugin$Companion.class;D:\Work\Kotlin\workspace\HelloPlugin\plugin-common\build\classes\kotlin\main\com\wayne\plugin\common\Plugin.class
