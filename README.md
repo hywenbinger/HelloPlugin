@@ -1,0 +1,2 @@
+# HelloPlugin
+Simple plugin
