@@ -2,7 +2,7 @@ package com.wayne.plugin2
 
 import com.wayne.plugin.common.Plugin
 
-class PluginImpl2: Plugin {
+class PluginImpl2 : Plugin {
     override fun start() {
         println("Plugin2: Start")
     }
